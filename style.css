@@ -1,0 +1,5 @@
+body {
+  height: 1000px;
+  width: 500px;
+  background: conic-gradient(yellow, red, blue, green, purple);
+}
