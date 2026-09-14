@@ -1,5 +1,9 @@
-body {
-  height: 1000px;
-  width: 500px;
-  background: conic-gradient(yellow, red, blue, green, purple);
+.jeden {
+    background-color: red
+}
+.dwa {
+    background-color: grey
+}
+h1:hover {
+    background-color: blue
 }
