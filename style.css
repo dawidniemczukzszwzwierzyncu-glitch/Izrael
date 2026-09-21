@@ -1,9 +1,21 @@
-.jeden {
-    background-color: red
+#rodzic {
+    display: flex;
 }
-.dwa {
-    background-color: grey
+#dzieci {
+    width: 70%;
 }
-h1:hover {
-    background-color: blue
+aside {
+    width: 30%;
+    background-color: aqua;
+}
+header {
+    height: 100px;
+    background-color: chartreuse;
+}
+main {
+    height: 500px;
+    background-color: crimson;
+}
+* {
+    text-align: center;
 }
