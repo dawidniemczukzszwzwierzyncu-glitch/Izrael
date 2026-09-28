@@ -6,12 +6,12 @@
 #jeden {
     display: flex;
     width: 100%;
-    height: 50%;
+    height: 406px;
 }
 #dwa {
     display: flex;
     width: 100%;
-    height: 50%;
+    height: 406px;
 }
 * {
    text-align: center;
