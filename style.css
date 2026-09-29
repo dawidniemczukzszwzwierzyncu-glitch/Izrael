@@ -1,18 +1,1 @@
-#suma {
-   display: block;
-   width: 100%;
-   height: 1000px;
-}
-#jeden {
-    display: flex;
-    width: 100%;
-    height: 406px;
-}
-#dwa {
-    display: flex;
-    width: 100%;
-    height: 406px;
-}
-* {
-   text-align: center;
-}
+
