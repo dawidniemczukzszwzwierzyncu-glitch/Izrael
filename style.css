@@ -3,39 +3,24 @@
     height: 1000px;
 }
 #lewa {
-    display: block;
     width: 50%;
-    background-color: aqua;
+    display: block;
+    background-color: brown;
+}
+#gora {
+    height: 20%;
+    background-color: blueviolet;
 }
 #prawa {
     width: 50%;
-    background-color: darkkhaki;
-    display: flex;
-}
-#gora {
-    height: 30%;
-    background-color: blueviolet;
-}
-#lewadwa {
-    width: 50%;
-    background-color: cadetblue;
-}
-#prawadwa {
-    width: 50%;
+    display: block;
     background-color: chartreuse;
-    display: block
 }
 #goradwa {
-    height: 70%;
+    height: 40%;
     background-color: coral;
 }
 footer {
-    height: 200px;
-    background-color: darkblue;
+    height: 100px;
+    background-color: crimson;
 }
-* {
-    margin: 0px;
-    padding: 0px;
-}
-
-
